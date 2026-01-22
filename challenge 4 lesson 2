@@ -1,0 +1,7 @@
+jam = 20
+if jam < 12:
+    print("selamat pagi")
+elif jam <= 17:
+    print("selamat siang")
+else:
+    print("selamat malam")
