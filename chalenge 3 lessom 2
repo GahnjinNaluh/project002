@@ -1,0 +1,5 @@
+nilai = 1
+if nilai % 2 == 0:
+    print("genap")
+else:
+    print("ganjil")
